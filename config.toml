@@ -17,6 +17,7 @@ cli-source = "MorpheApp/morphe-cli"
 module-prop-name = "YouTube-Morphe-module"
 riplib = true
 build-mode = "both"
+version = "20.21.37"
 
 [Music]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
