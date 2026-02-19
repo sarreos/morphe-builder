@@ -11,7 +11,7 @@ cli-version = "latest"
 # Morphe
 [YouTube]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/youtube-20-21-37-release/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 module-prop-name = "YouTube-Morphe-module"
